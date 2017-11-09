@@ -4,7 +4,9 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
+/**
+   *@author Gustavo
+   */
 public class Calculadora {
 	DateFormat formater = new SimpleDateFormat("dd/MM/yyyy");
 	
