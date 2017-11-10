@@ -6,7 +6,10 @@ public class Medicao {
 	private double volume;
 	private Date data;
 	
-	
+	/**
+   *@author Gustavo Domingues
+   *@version master
+   */
 	public Medicao() {
 	}
 
