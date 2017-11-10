@@ -2,6 +2,10 @@ package parades.mananciais.model;
 
 import java.util.ArrayList;
 
+/**
+   *@author Gustavo Domingues
+   *@version funcionalidade_x
+   */
 public class Represa {
 	public String nome;
 	public ArrayList<Medicao> medicoes;
